@@ -1,0 +1,19 @@
+{
+  "name": "taniho0707",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taniho0707/michishirube.git"
+  },
+  "author": "taniho0707",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taniho0707/michishirube/issues"
+  },
+  "homepage": "https://github.com/taniho0707/michishirube#readme"
+}
